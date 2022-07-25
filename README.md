@@ -1,0 +1,1 @@
+# Ego4d_NLQ_2022_1st_Place_Solution
