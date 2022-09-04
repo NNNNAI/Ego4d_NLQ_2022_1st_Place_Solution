@@ -29,7 +29,7 @@ python -m ms_cm.inference_ego4d_slowfast \
 python -m ms_cm.inference_ego4d_slowfast \
       --resume ./results/video_tef-vlen600_slowfast/model_0146.ckpt --split test
 ```
-Notably, the resume path "./results/video_tef-vlen600_slowfast/model_0146.ckpt "is just a example, you just change this path with the path of your own trained model checkpoint. We also prvoided the checkpoint: ["model_0146.ckpt"](https://github.com/NNNNAI/Ego4d_NLQ_2022_1st_Place_Solution/releases/download/data/video_tef-vlen600_slowfast.zip). If you want to use this chekpoint, just download and upzip it into ./results. 
+Notably, the resume path "./results/video_tef-vlen600_slowfast/model_0146.ckpt "is just a example, you can change this path with the path of your own trained model checkpoint. We also prvoided the checkpoint: ["model_0146.ckpt"](https://github.com/NNNNAI/Ego4d_NLQ_2022_1st_Place_Solution/releases/download/data/video_tef-vlen600_slowfast.zip). If you want to use this chekpoint, just download and upzip it into ./results. 
 
 # Citation
 ```
